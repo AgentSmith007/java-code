@@ -1,4 +1,4 @@
-package patterns.singleton;
+package patterns.creational.singleton;
 
 public final class SingletonNaive {
     private static SingletonNaive instance;

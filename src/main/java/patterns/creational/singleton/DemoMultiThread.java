@@ -1,4 +1,4 @@
-package patterns.singleton;
+package patterns.creational.singleton;
 
 public class DemoMultiThread {
     public static void main(String[] args) {
